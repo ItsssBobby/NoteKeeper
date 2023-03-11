@@ -10,7 +10,7 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // routes once created
-// app.use('/api', apiRoutes);
+app.use('/api', apiRoutes);
 // app.use('/', htmlRoutes);
 
 app.listen(PORT, () => {
