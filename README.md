@@ -1,4 +1,4 @@
-# <NoteKeeper>
+# NoteKeeper
 
 ## Description
 
